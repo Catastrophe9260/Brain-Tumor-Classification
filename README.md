@@ -11,7 +11,7 @@ The dataset is taken from Kaggle and consists of 512 x 512 brain MRI scans with 
 
 Below is how I structured my project folder - especially what the dataset directory looks like. Its broken down primarily into a training and testing set with a specific folder holding each type of brain tumor MRI scan and a folder with normal brain MRI scans.
 
-![image](https://user-images.githubusercontent.com/33336845/235609544-5605717c-d521-4029-a838-c30fdb367241.png)
+![image](https://user-images.githubusercontent.com/33336845/235609669-9b897884-a8e4-4a8b-8cf2-002222ab6fbf.png)
 
 Used https://tree.nathanfriend.io/ to make this folder tree!
 
