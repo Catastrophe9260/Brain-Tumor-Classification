@@ -14,7 +14,7 @@ Below is how I structured my project folder - especially what the dataset direct
 ![image](https://user-images.githubusercontent.com/33336845/235602598-d3f21c0c-e360-4809-8353-0c305ab1a688.png)
 
 ## Sample Images
-Below are a few sample MRI scans and what they look like when plotted out in my VSCode Jupyter Notebook.
+Below are a few sample MRI scans and what they look like when plotted out in my notebook.
 
 ![image](https://user-images.githubusercontent.com/33336845/235606199-9891dbc2-8fef-46ed-ad95-feac79e7ea10.png)
 ![image](https://user-images.githubusercontent.com/33336845/235606235-f6063298-1ffc-4b73-b7c6-5f02fed8a461.png)
