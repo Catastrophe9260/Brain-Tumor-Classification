@@ -1,10 +1,11 @@
 # Brain Tumor Classification
-Implemented a convolutional neural network (CNN) in Python using TensorFlow to differentiate between certain types of brain tumors. The model classifies 2D brain MRI scans as having a specific type of tumor or no tumor. And, if you're interested in reading a related research paper: https://link.springer.com/article/10.1007/s42044-023-00139-8#:~:text=There%20are%20two%20types%20of,prevalent%20type%20of%20malignant%20tumor.
+Implemented a convolutional neural network (CNN) in Python using TensorFlow to differentiate between certain types of brain tumors. The model classifies 2D brain MRI scans as having a specific type of tumor or no tumor.
 
 ## Types of Brain Tumors
 1. Glioma - growth of a tumor from glial cells which normally support neurons.
 2. Meningioma - growth of a tumor from the meninges which are membranes around the brain.
 3. Pituitary - growth of a tumor in the pituitary gland which are usually benign.
+You can read more about brain tumors here: https://miamineurosciencecenter.com/en/conditions/brain-tumors/types/
 
 ## The Dataset
 The dataset is taken from Kaggle and consists of 512 x 512 brain MRI scans with 3 channels. Its around 151 MB and has a CC0 license! Here's the Kaggle link to where the dataset was uploaded: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset.
