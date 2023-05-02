@@ -7,7 +7,7 @@ Implemented a convolutional neural network (CNN) in Python using TensorFlow to d
 3. Pituitary - growth of a tumor in the pituitary gland which are usually benign.
 
 ## The Dataset
-The dataset is taken from Kaggle and consists of 512 x 512 brain MRI scans with 3 channels. I've also uploaded it to this repo as its a rather small one (~151 MB, also it has CC0 license)! But, just in case, here's the Kaggle link to where the dataset was uploaded: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset.
+The dataset is taken from Kaggle and consists of 512 x 512 brain MRI scans with 3 channels. Its around 151 MB and has a CC0 license! Here's the Kaggle link to where the dataset was uploaded: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset.
 
 Below is how I structured my project folder - especially what the dataset directory looks like. Its broken down primarily into a training and testing set with a specific folder holding each type of brain tumor MRI scan and a folder with normal brain MRI scans.
 
