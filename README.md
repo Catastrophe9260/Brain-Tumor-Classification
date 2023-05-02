@@ -5,6 +5,7 @@ Implemented a convolutional neural network (CNN) in Python using TensorFlow to d
 1. Glioma - growth of a tumor from glial cells which normally support neurons.
 2. Meningioma - growth of a tumor from the meninges which are membranes around the brain.
 3. Pituitary - growth of a tumor in the pituitary gland which are usually benign.
+
 You can read more about brain tumors here: https://miamineurosciencecenter.com/en/conditions/brain-tumors/types/
 
 ## The Dataset
