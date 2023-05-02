@@ -13,6 +13,6 @@ Link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 Citation: Msoud Nickparvar. (2021). <i>Brain Tumor MRI Dataset</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/2645886
 
-Below is how I structured my project folder - especially what the dataset directory looks like. Its broken down primarily into a training set
+Below is how I structured my project folder - especially what the dataset directory looks like. Its broken down primarily into a training and testing set with a specific folder holding each type of brain tumor MRI scan and a folder with normal brain MRI scans.
 
 ![image](https://user-images.githubusercontent.com/33336845/235602598-d3f21c0c-e360-4809-8353-0c305ab1a688.png)
