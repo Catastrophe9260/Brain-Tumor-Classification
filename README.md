@@ -11,6 +11,6 @@ The dataset is taken from Kaggle and consists of 512 x 512 brain MRI scans with 
 
 Link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-Below is how I structured my project folder - especially what the dataset directory looks like:
+Below is how I structured my project folder - especially what the dataset directory looks like and how its broken down into the training + testing set.
 
 ![image](https://user-images.githubusercontent.com/33336845/235602598-d3f21c0c-e360-4809-8353-0c305ab1a688.png)
