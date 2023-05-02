@@ -13,6 +13,8 @@ Below is how I structured my project folder - especially what the dataset direct
 
 ![image](https://user-images.githubusercontent.com/33336845/235602598-d3f21c0c-e360-4809-8353-0c305ab1a688.png)
 
+Used https://tree.nathanfriend.io/ to make this folder tree!
+
 ## Sample Images
 Below are a few sample MRI scans and what they look like when plotted out in my notebook.
 
