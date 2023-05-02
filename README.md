@@ -16,3 +16,7 @@ Citation: Msoud Nickparvar. (2021). <i>Brain Tumor MRI Dataset</i> [Data set]. K
 Below is how I structured my project folder - especially what the dataset directory looks like. Its broken down primarily into a training and testing set with a specific folder holding each type of brain tumor MRI scan and a folder with normal brain MRI scans.
 
 ![image](https://user-images.githubusercontent.com/33336845/235602598-d3f21c0c-e360-4809-8353-0c305ab1a688.png)
+
+## Sample Images
+![image](https://user-images.githubusercontent.com/33336845/235606199-9891dbc2-8fef-46ed-ad95-feac79e7ea10.png)
+![image](https://user-images.githubusercontent.com/33336845/235606235-f6063298-1ffc-4b73-b7c6-5f02fed8a461.png)
