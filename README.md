@@ -19,4 +19,4 @@ Below are a few sample MRI scans and what they look like when plotted out in my 
 ![image](https://user-images.githubusercontent.com/33336845/235606199-9891dbc2-8fef-46ed-ad95-feac79e7ea10.png)
 ![image](https://user-images.githubusercontent.com/33336845/235606235-f6063298-1ffc-4b73-b7c6-5f02fed8a461.png)
 
-I used Python 3.9 Miniconda environment with the required libraries installed using conda (primarily just tensorflow-gpu and its dependancies and a few other common data visualization libraries like Matplotlib). With that - feel free to take a look at my code and run it on your own!
+I used a Python 3.9 Miniconda environment with the required libraries installed using conda (primarily just tensorflow-gpu and its dependancies and a few other common data visualization libraries like Matplotlib). With that - feel free to take a look at my code and run it on your own!
