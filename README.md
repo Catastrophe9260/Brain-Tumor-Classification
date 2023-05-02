@@ -6,7 +6,7 @@ Implemented a convolutional neural network (CNN) in Python using TensorFlow to d
 2. Meningioma - growth of a tumor from the meninges which are membranes around the brain.
 3. Pituitary - growth of a tumor in the pituitary gland which are usually benign.
 
-## Dataset Info
+## The Dataset
 The dataset is taken from Kaggle and consists of 512 x 512 brain MRI scans with 3 channels. I've also uploaded it to this repo as its a rather small one (~151 MB, also it has CC0 license)! But, just in case, here's all the information from Kaggle where the dataset was uploaded...
 
 Link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
